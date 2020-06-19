@@ -1,0 +1,23 @@
+@echo off
+dotnet run https://www.aliexpress.com/category/100003109/women-clothing-accessories.html 60 Womens-Fashion.csv
+dotnet run https://www.aliexpress.com/category/100003070/men-clothing-accessories.html 60 Mens-Fashion.csv
+dotnet run https://www.aliexpress.com/category/509/cellphones-telecommunications.html 60 Phones-n-Telecommunications.csv
+dotnet run https://www.aliexpress.com/category/7/computer-office.html 60 Computer.csv
+dotnet run https://www.aliexpress.com/category/21/office-school-supplies.html 60 Office.csv
+dotnet run https://www.aliexpress.com/category/30/security-protection.html 60 Security.csv
+dotnet run https://www.aliexpress.com/category/44/consumer-electronics.html 60 Consumer-Electronics.csv
+dotnet run https://www.aliexpress.com/category/1509/jewelry-accessories.html 60 Jewelry.csv
+dotnet run https://www.aliexpress.com/category/1511/watches.html 60 Watches.csv
+dotnet run https://www.aliexpress.com/category/15/home-garden.html 60 Home.csv
+dotnet run https://www.aliexpress.com/category/100006206/pet-products.html 60 Pet.csv
+dotnet run https://www.aliexpress.com/category/6/home-appliances.html 60 Appliances.csv
+dotnet run https://www.aliexpress.com/category/1524/luggage-bags.html 60 Bags.csv
+dotnet run https://www.aliexpress.com/category/322/shoes.html 60 Shoes.csv
+dotnet run https://www.aliexpress.com/category/26/toys-hobbies.html 60 Toys.csv
+dotnet run https://www.aliexpress.com/category/1501/mother-kids.html 60 Kids-n-Babies.csv
+dotnet run https://www.aliexpress.com/category/18/sports-entertainment.html 60 Outdoor-Fun-n-Sports.csv
+dotnet run https://www.aliexpress.com/category/66/health-beauty.html 60 Beauty-n-Health.csv
+dotnet run https://www.aliexpress.com/category/200002489/hair-extensions-wigs.html 60 Hair.csv
+dotnet run https://www.aliexpress.com/category/34/automobiles-motorcycles.html 60 Automobiles-n-Motorcycles.csv
+dotnet run https://www.aliexpress.com/category/13/home-improvement.html 60 Home-Improvement.csv
+dotnet run https://www.aliexpress.com/category/1420/tools.html 60 Tools.csv
