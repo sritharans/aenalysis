@@ -8,7 +8,7 @@ The output contains the description, URL and pricing of other similar listings.
 The data could then be imported to perform price comparisons and other analysis.
 This tool is dependent on the following 3rd party components:
 
- - [Puppeteer Sharp](https://www.puppeteersharp.com)
+ - [Canopy](https://lefthandedgoat.github.io/canopy/)
  - [F# Data](http://fsharp.github.io/FSharp.Data/)
 
 # Build Instructions
