@@ -22,7 +22,7 @@ Steps:
  3. Using the command line, switch to the cloned repository or extracted folder and run the following command:`dotnet restore`
  4. After a successful restore then run the following command: `dotnet build`
  5. Then finally run the program using: `dotnet run`
- 6. Follow the instructions to generate the listing data using the program, like this:`dotnet run https://www.aliexpress.com/item/4000478431034.html output.csv`
+ 6. Follow the instructions to generate the listing data using the program, like this:`dotnet run https://www.aliexpress.com/category/1511/watches.html 60 output.csv`
 
 ## To view the CSV
 
